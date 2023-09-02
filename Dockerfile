@@ -2,7 +2,7 @@
 # PX4 ROS development environment
 #
 
-FROM nvcr.io/nvidia/l4t-ml:r32.4.3
+FROM nvcr.io/nvidia/l4t-base:r32.4.3
 LABEL maintainer="Heejung Shin <godhj@unist.ac.kr"
 
 
